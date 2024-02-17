@@ -1,0 +1,3 @@
+Jeżeli nie działa wam na waszym xampie i wywala jakiś fatal error, że brakuje MongoDB\Driver\Manager to pobierzcie sobie tego xampa na jakiegoś pendrive czy dysk zewnętrzny i odpalajcie z niego. Testowałam odpalanie na szkolnych komputerach - nie działa, u mnie działa :like:. Więc macie tutaj po prostu skopiowanego mojego xampa.
+
+https://uczniowiesciedu-my.sharepoint.com/:u:/g/personal/noiceya_microsoft_sci_edu_pl/ETaT9KyouCFAr72Zs8Bsji4B2YBQP9xbP_2jtixr_No76A?e=QBxAhq
